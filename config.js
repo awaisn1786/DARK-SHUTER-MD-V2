@@ -7,7 +7,7 @@ function convertToBool(text, fault = 'true') {
 
 module.exports = {
 SESSION_ID: 'DARK-SHUTER-MD=jBlygBJa#GJc8Y6Gz_O_Qk7eRkUpHwPguf5ql_nu88fF1cSvFfWA',
-GITHUB_TOKEN: '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',
+GITHUB_TOKEN: '',
 REPO_NAME: 'DARK-SHUTER-MD-V2',
 GITHUB_USER_NAME: 'awaisn1786',
 
